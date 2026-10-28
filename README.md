@@ -22,11 +22,12 @@ Instead of ignoring the mismatch, I investigated the root cause. I realized Powe
 ## Dashboard Screenshots
 
 ### 1. Business Overview
-<img width="719" height="609" alt="Page1" src="https://github.com/user-attachments/assets/77f558ac-4a70-4290-a3d6-9e031e2d0c79" />
+<img width="708" height="591" alt="Page1" src="https://github.com/user-attachments/assets/c2864344-617b-459c-9d78-469b77c27256" />
 
 ### 2. Delivery & Customer Satisfaction
-<img width="441" height="357" alt="Page2" src="https://github.com/user-attachments/assets/870d0a9e-a6aa-4fb7-bd1f-a19c37cff831" />
+<img width="746" height="588" alt="Page2" src="https://github.com/user-attachments/assets/a294c98a-c075-4fed-b544-2f47a0432ee2" />
 
 ### 3. Product & Payment Analysis
-<img width="704" height="267" alt="Page3" src="https://github.com/user-attachments/assets/bf4b3d04-8079-44be-b006-6896977514b2" />
+<img width="1200" height="450" alt="Page3" src="https://github.com/user-attachments/assets/e75b2352-4e9e-4d5b-8abd-35e438836e63" />
+
 
