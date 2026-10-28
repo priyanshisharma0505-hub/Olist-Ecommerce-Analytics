@@ -22,10 +22,11 @@ Instead of ignoring the mismatch, I investigated the root cause. I realized Powe
 ## Dashboard Screenshots
 
 ### 1. Business Overview
-*(Your Page 1 image should still be here)*
+<img width="719" height="609" alt="Page1" src="https://github.com/user-attachments/assets/77f558ac-4a70-4290-a3d6-9e031e2d0c79" />
 
 ### 2. Delivery & Customer Satisfaction
-*(Your Page 2 image should still be here)*
+<img width="441" height="357" alt="Page2" src="https://github.com/user-attachments/assets/870d0a9e-a6aa-4fb7-bd1f-a19c37cff831" />
 
 ### 3. Product & Payment Analysis
-*(Your Page 3 image should still be here)*
+<img width="704" height="267" alt="Page3" src="https://github.com/user-attachments/assets/bf4b3d04-8079-44be-b006-6896977514b2" />
+
